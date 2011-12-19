@@ -38,8 +38,13 @@ Got some books you don't want to see in the list? Ignore them like so:
 @invoice.excluded_titles << "adult supplement" 
 ```
 
+## Feature Request
+
 At the moment, it won't do anything magical: no expanding abbreviations or cleaning up shoddy
-titles.
+titles, nor will it pull anything else out of the invoice line.
+
+Have a suggestion for a feature? [Add it to the 
+list](https://github.com/joncanady/diamond_invoice/issues/new)
 
 ## Testing
 
