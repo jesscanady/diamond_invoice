@@ -1,0 +1,170 @@
+                                O R D E R   S T A T U S   R E P O R T                     111212-23202459
+
+ACCOUNT#   25582        COMIC TOWN III                 GROUP CODE P020
+Please call : 1-800-45-COMIC  or FAX : (800)329-2878  for all customer service and reorders.
+YOUR CUSTOMER SERVICE REP IS STEPHANIE      ,Ext. 825
+                                     DC CO-OP SUMMARY:
+                                     BEGINNING BALANCE AS OF  12/01/11:      2,701.73
+                                                              EARNED :         190.05
+                                                              USED :             0.00
+                                                              EXPIRED:         273.79
+                                        ENDING BALANCE AS OF  12/09/11:      2,617.99
+
+THE FOLLOWING ITEMS WERE ORDERED OR CANCELLED SINCE YOU RECEIVED YOUR LAST INVOICE:
+ORDER REDUCTION  TOTAL QTY     ITEMCODE                      TITLE
+       DUE DATE  ON ORDER
+
+     ORDER STATUS: THE FOLLOWING ITEMS ARE ELIGIBLE FOR ORDER REDUCTIONS
+                   DUE TO VENDOR LATE SHIPPING, MIS-SOLICITAION, OR ORDERS MATCHED TO A PREVIOUS SOLICITATION.
+ 12/19/11             2      AUG100789 E                     FATHOM BLUE DESCENT #4 CVR A ALEX SANCHEZ                      2.9900
+ 12/19/11             2      AUG100790 E                     FATHOM BLUE DESCENT #4 CVR B SCOTT CLARK                       2.9900
+
+
+ ORDER NO      QTY ORDERED     ITEMCODE          CODE        TITLE                                                           PRICE
+     ORDER STATUS: UNCONFIRMED ORDER
+ 54246434             1      SEP110548 D                     RED SKULL #5 (OF 5)                                            2.9900
+
+
+     ORDER STATUS: CANCELLED INITIAL ORDER
+ 53988153             3-     JUN110486 D         04          MORNING GLORIES YEARBOOK 2011                                  2.9900
+ 54140000             1-     SEP110786 E         02          HAUNTED CITY #3 CVR A RYAN                                     3.5000
+ 54230910             1-     NOV110594 D         04          BRILLIANT #4 MACK VAR (MR) (OF 5)                              3.9500
+ 54230910             1-     NOV110595 D         04          BRILLIANT #4 OEMING VAR (MR) (OF 5)                            3.9500
+ 54230910             1-     NOV111048 F         02          HONEY WEST #6 (C: 0-1-0)                                       3.9900
+
+
+     ORDER STATUS: CANCELLED ORDER INCREASE
+ 54243583             1-     OCT118104 D         04          PUNISHERMAX #17 2ND PTG DILLON VAR (MR) (PP #998)              3.9900
+ 54243583             1-     OCT118105 D         04          PUNISHERMAX #18 2ND PTG DILLON VAR (MR) (PP #998)              3.9900
+
+
+     ORDER STATUS: FREE ORDER INCREASE
+ 54245613             1      NOV110837 F                     PEANUTS #1 (OF 4)                                              3.9900
+ 54250303             1      OCT110920 F                     IRREDEEMABLE #1 ARTIST EDITION                                 3.9900
+
+NEW PRODUCT ON THIS INVOICE IS FOR AN ON SALE DATE OF WEDNESDAY, 12/21/11
+                                             C U S T O M E R   I N V O I C E              111212-23202459
+ACCOUNT#   25582        COMIC TOWN III                 GROUP CODE P020                         DATE 12/12/11
+REORDER TYPE(T) 2 = IN STOCK DIRECT SHIP  3 = ORDER INC  4 = ADVANCE  5 = B/O   6 = CREDIT   7 = INSTOCK RESHIP 9 = SPECIAL PROGRAM
+P = PREPACK     # = ORDER WAS PARTIALLY FILLED
+   UNITS     ORDER                                                                        UNIT              UNIT    INVOICE  INV
+ SHIPPED    NUMBER T ITEMCODE    TITLE                                                  RETAIL  DISC        COST     AMOUNT  REF
+       1  00000000   OCT108124   DAY EARLY DELIVERY COMPLIANCE FUND (NET)                 0.00   0.0      4.0000       4.00
+      63  54186319   OCT110631D  AMAZING SPIDER-MAN #676                                  3.99  55.0      1.7955     113.12  Marvel
+       3  54244989 P AUG110212D  ANIMAL MAN #2                                            2.99  55.0      1.3455       4.04  DC
+      12  54090854   AUG110680D  ANITA BLAKE CIRCUS DAMNED SCOUNDREL #3 (OF 5) (MR)       3.99  55.0      1.7955      21.55  Marvel
+       1  54186319   OCT110809E  ARCHIE & FRIENDS #159                                    2.99  50.0      1.4950       1.50
+      85  54186319   OCT110597D  AVENGERS #20                                             3.99  55.0      1.7955     152.62  Marvel
+       1  54140000   SEP111349H  BACK ISSUE #53 (C: 0-1-1)                                8.95  40.0      5.3700       5.37
+       1  54090854   AUG110039V  BALTIMORE VOL 01 THE PLAGUE SHIPS TP (C: 0-1-2)         18.99  52.5      9.0203       9.02  Drk Hrs
+       5  54244989 P AUG118063D  BATMAN #1 2ND PTG                                        2.99  55.0      1.3455       6.73  DC
+                                 2.99  55.0      1.3455      13.46  DC
+                                    2,179  TOTAL UNITS SHIPPED                                    TOTAL COST:         3,506.68
+                                       CREDIT SECTION
+       1- 54233356 6 SEP110548D  RED SKULL #5 (OF 5)                                      0.00  55.0      1.3455       1.35- Marvel
+                                 SHORTAGE/DAMAGE REPLACEMENT
+                                 SHORTAGE CREDIT
+       2  54186319   OCT110015D  THE STRAIN #1 (OF 11) MORRIS VAR CVR                     3.50  12.5      1.1250-      2.25- Drk Hrs
+                                 PRICE ADJUSTMENT
+       1- 54233356 6 SEP110522D  ULTIMATE COMICS ULTIMATES #4                             0.00  55.0      1.7955       1.80- Marvel
+                                 SHORTAGE/DAMAGE REPLACEMENT
+                                 SHORTAGE CREDIT
+       2- 54186319 0 OCT110575D  WALKING DEAD WEEKLY #49 (MR)                             2.99  55.0      1.3455       2.69- Image
+                                 SHORTAGE CREDIT
+
+ACCOUNT:  25582               C U S T O M E R   I N V O I C E               111212-23202459
+      20- 54186319 0 OCT110675D  X-MEN #22 XREGB                                          3.99  55.0      1.7955      35.91- Marvel
+                                 SHORTAGE CREDIT
+       2- 54233356 6 SEP110604D  X-MEN LEGACY #259 XREGG                                  2.99  55.0      1.3455       2.69- Marvel
+                                 SHORTAGE/DAMAGE REPLACEMENT
+                                 SHORTAGE CREDIT
+                                           TOTAL UNITS SHIPPED                                    TOTAL COST:            46.69-
+                                       DEBIT SECTION
+      25  54140000   SEP110615D  WOLVERINE BEST THERE IS #12                              2.99  88.7      0.4500      11.25  Marvel
+                                 PRICE ADJUSTMENT
+                                           TOTAL UNITS SHIPPED                                    TOTAL COST:            11.25
+                                       DIRECT SHIP SECTION
+       0  00000000            D                                                           0.00   0.0      0.0000       0.00
+       1  54246998 2 JUN110380E  ANNE RICE SERVANT OF THE BONES #1 (OF 6)                 3.99  47.0      2.1147       2.11  IDW
+       1  54246998 2 AUG050185D  ARKHAM ASYLUM ANNIVERSARY ED SC (MR)                    17.99  55.0      8.0955       8.10  DC
+       1  54246998 2 JUN110266D  BATMAN ARKHAM CITY HC                                   22.99  55.0     10.3455      10.35  DC
+       1  54246998 2 DEC058055D  BATMAN DARK KNIGHT RETURNS TP                           14.99  55.0      6.7455       6.75  DC
+       2  54246998 2 JUL110245D  BATMAN NOEL DELUXE EDITION HC                           22.99  55.0     10.3455      20.69  DC
+       1  54246998 2 JUL110251D  BATMAN THE LONG HALLOWEEN TP                            24.99  55.0     11.2455      11.25  DC
+       1  54246998 2 APR110192D  BLACKEST NIGHT TP                                       19.99  55.0      8.9955       9.00  DC
+   1,500  54246998 2 SUPPLY115J  COMICARE CURRENT BOARDS (SOLD IN 100) (Net)                PI   0.0      0.0456      68.40
+   1,500  54246998 2 SUPPLY105J  COMICARE CURRENT PE BAGS (ORDER IN 100) (Net)              PI   0.0      0.0351      52.65
+     100  54246998 2 SUPPLY117J  COMICARE MAG BOARDS (SOLD IN 50) (Net)                     PI   0.0      0.0562       5.62
+     100  54246998 2 SUPPLY108J  COMICARE MAG PE BAGS (ORDER IN 100) (Net)                  PI   0.0      0.0430       4.30
+       2  54246998 2 AUG118052D  DAREDEVIL #3 2ND PTG RIVERA VAR (PP #990)                2.99  55.0      1.3455       2.69  Marvel
+       1  54246998 2 MAR058123D  FABLES TP VOL 02 ANIMAL FARM                            12.99  55.0      5.8455       5.85  DC
+       1  54246998 2 JAN110422D  FABLES TP VOL 15 ROSE RED (MR)                          17.99  55.0      8.0955       8.10  DC
+       1  54246998 2 FEB100185D  GREEN LANTERN REBIRTH TP NEW EDITION                    14.99  55.0      6.7455       6.75  DC
+       1  54246998 2 OCT110274D  LOONEY TUNES #204                                        2.99  55.0      1.3455       1.35  DC
+   2,000  54246998 2 SUPPLY668J  MYLITES 2 CURRENT (ORDER IN 50) (Net)                      PI  27.1      0.1400     280.00
+     250  54246998 2 SUPPLY677J  MYLITES 2 SILVER GOLD (ORDER IN 50) (Net)                  PI  17.6      0.1680      42.00
+   1,000  54246998 2 SUPPLY678J  MYLITES 2 STANDARD (ORDER IN 50) (Net)                     PI  26.5      0.1440     144.00
+       2  54246998 2 SEP118079E  STAR TREK ONGOING #2 2ND PTG (PP #994)                   3.99  47.0      2.1147       4.23  IDW
+       2  54246998 2 SEP110027D  STAR WARS CRIMSON EMPIRE III EMPIRE LOST #2 (OF 6)       3.50  55.0      1.5750       3.15  Drk Hrs
+       2  54246998 2 MAY110017D  STAR WARS DARK TIMES OUT O/T WILDERNESS #1 (OF 5)        2.99  55.0      1.3455       2.69  Drk Hrs
+       1  54246998 2 SEP110389D  THOUGHT BUBBLE ANTHOLOGY #1                              2.99  55.0      1.3455       1.35  Image
+       2  54246998 2 MAY110611D  ULTIMATE COMICS FALLOUT #1 (OF 6) DOSM                   3.99   0.0      0.0000       0.00  Marvel
+       2  54246998 2 MAY110611D  ULTIMATE COMICS FALLOUT #1 (OF 6) DOSM                   3.99   0.0      0.0000       0.00  Marvel
+       1  54246998 2 MAY110611D  ULTIMATE COMICS FALLOUT #1 (OF 6) DOSM                   3.99   0.0      0.0000       0.00  Marvel
+       1  54246998 2 MAY110611D  ULTIMATE COMICS FALLOUT #1 (OF 6) DOSM                   3.99   0.0      0.0000       0.00  Marvel
+       1  54246998 2 MAY110611D  ULTIMATE COMICS FALLOUT #1 (OF 6) DOSM                   3.99   0.0      0.0000       0.00  Marvel
+       2  54246998 2 JUL110605D  ULTIMATE COMICS SPIDER-MAN #1                            3.99  55.0      1.7955       3.59  Marvel
+       1  54246434 2 SEP110522D  ULTIMATE COMICS ULTIMATES #4                             3.99  55.0      1.7955       1.80  Marvel
+                                 SHORTAGE/DAMAGE REPLACEMENT
+       1  54246998 2 JUL068351D  WALKING DEAD TP VOL 01 DAYS GONE BYE                     9.99  60.0      3.9960       4.00  Image
+       1  54246998 2 SEP088204D  WALKING DEAD TP VOL 02 MILES BEHIND US (NEW PTG)        14.99  60.0      5.9960       6.00  Image
+       2  54246434 2 OCT110575D  WALKING DEAD WEEKLY #49 (MR)                             2.99  55.0      1.3455       2.69  Image
+                                 SHORTAGE/DAMAGE REPLACEMENT
+       1  54246998 2 AUG111043E  WALT DISNEY DONALD DUCK HC VOL 01 LOST I/T ANDES (      24.99  47.0     13.2447      13.24
+      20  54246434 2 OCT110675D  X-MEN #22 XREGB                                          3.99  55.0      1.7955      35.91  Marvel
+                                 SHORTAGE/DAMAGE REPLACEMENT
+       1  54246998 2 JUN110693D  X-MEN LEGACY #254                                        2.99  55.0      1.3455       1.35  Marvel
+
+ACCOUNT:  25582               C U S T O M E R   I N V O I C E               111212-23202459
+       1  54246998 2 JUL110699D  X-MEN LEGACY #255                                        2.99  55.0      1.3455       1.35  Marvel
+       1  54246998 2 JUL110700D  X-MEN LEGACY #256                                        2.99  55.0      1.3455       1.35  Marvel
+       2  54246434 2 SEP110604D  X-MEN LEGACY #259 XREGG                                  2.99  55.0      1.3455       2.69  Marvel
+                                 SHORTAGE/DAMAGE REPLACEMENT
+       2  54246998 2 SEP110604D  X-MEN LEGACY #259 XREGG                                  2.99  55.0      1.3455       2.69  Marvel
+                                    6,513  TOTAL UNITS SHIPPED                                    TOTAL COST:           778.04
+
+                                                 DIAMOND COMIC DISTRIBUTORS, INC.
+                                                 Remit to: P.O.BOX 79582
+                                                          BALTIMORE MD 21279-0582
+                                W E E K L Y  I N V O I C E  R E C A P                     111212-23202459
+ACCOUNT#   25582        SHIP TO:                           BILL TO:                            DATE 12/12/11
+GROUP CODE   P020       COMIC TOWN III                     NAMTAB INC
+TERMS  COD CERTIFIED    1249 MORSE RD                      DBA COMIC TOWN III
+                                                           1249 MORSE RD
+                        COLUMBUS        OH  43229          COLUMBUS      OH  43229
+                                 INVOICE         RETAIL    INVOICE AMOUNT
+                 Diamond Comics   878480      7,733.98          3,451.93
+                  UPS             878480                          150.62
+     Direct Ship Diamond Comics   878505         95.75             43.09
+     Direct Ship Diamond Comics   880067      1,092.61            734.95
+     Direct Ship Diamond Comics
+      Direct Ship UPS             908323                           76.40
+                 Diamond Comics   912655         42.89             19.31
+                                            ___________       ___________
+INVOICING TOTALS                              8,965.23          4,476.30 # USD
+              # THIS AMOUNT IS PAYABLE C.O.D. CERTIFIED
+
+
+      PROMPT PAYMENT IS APPRECIATED AND WILL ENSURE RETENTION OF YOUR CURRENT PAYMENT TERMS.
+      COUNTRY OF EXPORT - U.S.A.
+                                      AMOUNT INVOICED BY VENDOR
+                                                 RETAIL    INVOICE AMOUNT
+                      DC Comics               3,214.86          1,422.11
+                   Image Comics                 150.12             66.32
+              Dark Horse Comics                 248.42            109.58
+                  Marvel Comics               3,796.73          1,636.44
+Please call : 1-800-45-COMIC  or FAX : (800)329-2878  for all customer service and reorders.
+YOUR CUSTOMER SERVICE REP IS STEPHANIE ,Ext. 825 AND YOUR SALES REP IS F. LIMCUANDO ,Ext. 329
+YOUR CREDIT ANALYST IS PAULA SIMMONS ,Ext. 257
+** DIAMOND COMIC DISTRIBUTORS, INC. IS A SALES AGENT WITH RESPECT TO THIS SALE.
+                                                 THANK YOU FOR YOUR BUSINESS

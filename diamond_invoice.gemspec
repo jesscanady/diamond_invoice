@@ -8,9 +8,10 @@ Gem::Specification.new do |s|
   s.authors     = ["Jon Canady"]
   s.email       = ["jon@joncanady.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = "Reads the Diamond Comic Distributor email invoice."
+  s.description = %q{Parses and extracts useful information from Diamond Comic Distributor's invoice files.}
 
+  # wtf?
   s.rubyforge_project = "diamond_invoice"
 
   s.files         = `git ls-files`.split("\n")
@@ -19,6 +20,6 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   # specify any dependencies here; for example:
-  # s.add_development_dependency "rspec"
+  s.add_development_dependency "rspec"
   # s.add_runtime_dependency "rest-client"
 end

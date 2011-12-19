@@ -1,3 +1,3 @@
-module DiamondInvoice
-  VERSION = "0.0.1"
+class DiamondInvoice
+  VERSION = "0.5.0"
 end
