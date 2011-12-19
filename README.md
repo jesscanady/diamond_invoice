@@ -3,9 +3,6 @@
 Does some trivial parsing of the email invoice format used by [Diamond Comic
 Distributors](http://www.diamondcomics.com/). 
 
-## Features
-
-
 ## Installation
 
     gem install diamond_invoice
