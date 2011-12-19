@@ -38,6 +38,9 @@ Got some books you don't want to see in the list? Ignore them like so:
 @invoice.excluded_titles << "adult supplement" 
 ```
 
+At the moment, it won't do anything magical: no expanding abbreviations or cleaning up shoddy
+titles.
+
 ## Testing
 
     $ rake 
