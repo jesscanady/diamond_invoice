@@ -23,6 +23,11 @@ describe DiamondInvoice do
       subject.excluded_titles << "avengers" 
       subject.new_titles.should_not include("avengers #20")
     end
+
+    it "ignores case when excluding titles" do 
+      subject.excluded_titles << "AVENGERS" 
+      subject.new_titles.should_not include("avengers #20")
+    end
         
   end
 

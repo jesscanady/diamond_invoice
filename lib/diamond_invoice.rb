@@ -43,7 +43,7 @@ class DiamondInvoice
   end
     
   def excluded_title?(title)
-    @excluded_titles.map { |pattern| title.match(pattern) }.any?
+    @excluded_titles.map { |pattern| title.match(pattern.downcase) }.any?
   end
 
 
