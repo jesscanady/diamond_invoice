@@ -3,6 +3,12 @@
 Does some trivial parsing of the email invoice format used by [Diamond Comic
 Distributors](http://www.diamondcomics.com/). 
 
+## Dedication
+
+Adapted from some really old PHP code I wrote really early in my career for
+[Comic Town](http://comictown.net) in Columbus, OH. If you're ever in Columbus
+and need comics, give them a visit. 
+
 ## Installation
 
     gem install diamond_invoice
