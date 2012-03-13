@@ -33,7 +33,7 @@ Fetch a list of incoming items as an all-lowercase array.
 Got some books you don't want to see in the list? Ignore them like so:
 
 ```ruby
-# Ignore any title that contains "addult supplement."
+# Ignore any title that contains "adult supplement."
 # Case insensitive, matches if the keyword apepars anywhere in the title.
 @invoice.excluded_titles << "adult supplement" 
 ```
